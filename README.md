@@ -1,8 +1,11 @@
 # sbrnk
 Šbrnk - Experimental WebGPU based Game Engine 
 Started during my Masters Degree @FH Technikum Vienna
+I have 0 Knowledge of Game Engine, this is mainly for me to learn
 
-# At the Moment
+If someone is interested in contributing we can share a room in the mental Hospital.
+
+## At the Moment
 Simple Entity Component System
 Simple Math Lib for Vector & Matrices
 Simple aspect based Gfx Engine
@@ -10,7 +13,7 @@ Simple linear Physics Implementation with out collison detection/resolution
 
 [![Simple Gravity](https://img.youtube.com/vi/oxBx6I5w5JU/0.jpg)](https://youtu.be/oxBx6I5w5JU)
 
-# Next Steps
+## Next Steps
 Implementing Physics with collisions
 Implementing WebXR 
 Implementing Model Loader
@@ -18,7 +21,7 @@ Implementing Web3 (IOTA/ETH)
 Implementing Editor 
 Mental Hospital
 
-# Test
+## Test
 0. install chrome canary
 1. git clone the repository
 2. cd sbrnk 
@@ -26,8 +29,8 @@ Mental Hospital
 4. npm run start
 5. navigate to http://127.0.0.1:8080 in your Chrome canary Browser
 
-# Architecture 
-![alt text](http://url/to/img.png)
+## Architecture 
+![simple Architecture](https://raw.githubusercontent.com/Razorbob/sbrnk/main/arch1.png)
  
 [![Simple Solar System](https://img.youtube.com/vi/KVX_eg8-lMs/0.jpg)](https://youtu.be/KVX_eg8-lMs)
 
