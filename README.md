@@ -25,9 +25,21 @@ Simple Gravity demo:
 ## Test
 0. install chrome canary
 1. git clone the repository
-2. cd sbrnk 
+```
+git clone https://github.com/Razorbob/sbrnk.git
+```
+2. cd sbrnk
+```
+cd sbrnk
+```
 3. npm install
+```
+npm install
+```
 4. npm run start
+```
+npm run start
+```
 5. navigate to http://127.0.0.1:8080 in your Chrome canary Browser
 
 ## Architecture 
