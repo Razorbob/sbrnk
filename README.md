@@ -1,5 +1,5 @@
 # sbrnk
-Šbrnk - Experimental WebGPU based Game Engine
+Šbrnk - Experimental WebGPU based Game Engine 
 Started during my Masters Degree @FH Technikum Vienna
 
 # At the Moment
@@ -14,6 +14,7 @@ Simple linear Physics Implementation with out collison detection/resolution
 Implementing Physics with collisions
 Implementing WebXR 
 Implementing Model Loader
+Implementing Web3 (IOTA/ETH) 
 Implementing Editor 
 Mental Hospital
 
