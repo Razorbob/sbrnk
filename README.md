@@ -11,7 +11,7 @@ If someone is interested in contributing we can share a room in the mental Hospi
 - Simple aspect based Gfx Engine
 - Simple linear Physics Implementation with out collison detection/resolution
 
-Simple Gravity demo:
+##### Simple Gravity demo:
 [![Simple Gravity](https://img.youtube.com/vi/oxBx6I5w5JU/0.jpg)](https://youtu.be/oxBx6I5w5JU)
 
 ## Next Steps
