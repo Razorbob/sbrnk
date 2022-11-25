@@ -46,8 +46,10 @@ npm run start
 5. navigate to http://127.0.0.1:8080 in your Chrome canary Browser
 
 ## Architecture 
+
 ![simple Architecture](https://raw.githubusercontent.com/Razorbob/sbrnk/main/arch1.png)
 
-Simple Solar System demo:
+##### Simple Solar System demo:
+
 [![Simple Solar System](https://img.youtube.com/vi/KVX_eg8-lMs/0.jpg)](https://youtu.be/KVX_eg8-lMs)
 
