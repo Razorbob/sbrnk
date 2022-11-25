@@ -1,0 +1,12 @@
+{
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "coverageDirectory": "./coverage",
+    "resetMocks": true,
+    "clearMocks": true,
+    "fakeTimers": {
+        "enableGlobally": true,
+        "legacyFakeTimers": true,
+        "advanceTimers": true
+    }
+}
