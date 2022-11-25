@@ -24,6 +24,9 @@ Simple Gravity demo:
 
 ## Test
 0. install chrome canary
+```
+https://www.google.com/intl/de/chrome/canary/
+```
 1. git clone the repository
 ```
 git clone https://github.com/Razorbob/sbrnk.git
