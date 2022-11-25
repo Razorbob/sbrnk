@@ -1,7 +1,7 @@
 # sbrnk
 Šbrnk - Experimental WebGPU based Game Engine 
 Started during my Masters Degree @FH Technikum Vienna
-I have 0 Knowledge of Game Engine, this is mainly for me to learn
+I have 0 Knowledge of Game Engine, this is mainly my learning journey into Game Engine and XR
 
 If someone is interested in contributing we can share a room in the mental Hospital.
 
@@ -11,6 +11,7 @@ If someone is interested in contributing we can share a room in the mental Hospi
 - Simple aspect based Gfx Engine
 - Simple linear Physics Implementation with out collison detection/resolution
 
+Simple Gravity demo:
 [![Simple Gravity](https://img.youtube.com/vi/oxBx6I5w5JU/0.jpg)](https://youtu.be/oxBx6I5w5JU)
 
 ## Next Steps
@@ -31,6 +32,7 @@ If someone is interested in contributing we can share a room in the mental Hospi
 
 ## Architecture 
 ![simple Architecture](https://raw.githubusercontent.com/Razorbob/sbrnk/main/arch1.png)
- 
+
+Simple Solar System demo:
 [![Simple Solar System](https://img.youtube.com/vi/KVX_eg8-lMs/0.jpg)](https://youtu.be/KVX_eg8-lMs)
 
