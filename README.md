@@ -1,7 +1,6 @@
 # sbrnk
 Šbrnk - Experimental WebGPU based Game Engine 
 Started during my Masters Degree @FH Technikum Vienna
-I have 0 Knowledge of Game Engine, this is mainly my learning journey into Game Engine and XR
 
 If someone is interested in contributing we can share a room in the mental Hospital.
 
