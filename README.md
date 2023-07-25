@@ -1,8 +1,5 @@
 # sbrnk
 Šbrnk - Experimental WebGPU based Game Engine 
-Started during my Masters Degree @FH Technikum Vienna
-
-If someone is interested in contributing we can share a room in the mental Hospital.
 
 ## At the Moment
 - Simple Entity Component System
@@ -15,13 +12,6 @@ If someone is interested in contributing we can share a room in the mental Hospi
 ##### Simple Gravity demo:
 [![Simple Gravity](https://img.youtube.com/vi/oxBx6I5w5JU/0.jpg)](https://youtu.be/oxBx6I5w5JU)
 
-## Next Steps
-- Implementing Physics with collisions
-- Implementing WebXR 
-- Implementing Model Loader
-- Implementing Web3 (IOTA/ETH) 
-- Implementing Editor 
-- Mental Hospital
 
 ## Test
 0. install chrome canary
